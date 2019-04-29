@@ -1,0 +1,35 @@
+#menu {
+  margin-top: 20px;
+}
+
+.menu {
+  background-image: url("travel.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  height: 80vh;
+}
+
+@media (max-width: 500px) {
+  #countryCard {
+    margin-top: 20px;
+  }
+  .contenido-footer {
+    display:block;
+    text-align: center;
+  }
+}
+
+.size-flag {
+  width: 17.9rem;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-family: 'Gugi', cursive;
+}
+
+/*  */
